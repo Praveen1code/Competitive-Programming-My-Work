@@ -7,5 +7,5 @@
 
 2. I am having problems in solving questions related to segment tree. What should I do?
 
-   https://www.quora.com/profile/Praveen-Prajapati-7
+  
    
