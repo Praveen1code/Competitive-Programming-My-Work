@@ -11,6 +11,10 @@
 3. Game Theory for Competitive Prgramming:
 
    https://stepupanalytics.com/game-theory-for-competitive-programming/
+   
+4. Algorithms And Data Structure for Competitive Programming:
+
+   https://stepupanalytics.com/competitive-programming-algorithms-and-data-structure/
 
   
    
