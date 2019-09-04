@@ -15,6 +15,10 @@
 4. Algorithms And Data Structure for Competitive Programming:
 
    https://stepupanalytics.com/competitive-programming-algorithms-and-data-structure/
+   
+5. How Can be good in Segment tree problems:
+
+   https://www.quora.com/I-am-having-problems-in-solving-questions-related-to-segment-tree-What-should-I-do
 
   
    
